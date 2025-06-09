@@ -269,7 +269,7 @@ export const SkillsInfo = [
       description:
         "A dynamic e-commerce website designed for selling educational courses. It features user authentication, interactive course listings, and a content management system that allows administrators to add, update, or remove courses without modifying the codebase.",
       image: webverLogo,
-      tags: ["HTML", "CSS", "JavaScript", "Framer Motion"],
+      tags: ["HTML", "CSS", "JavaScript", "Node JS", "Express JS", "MongoDB", "EJS"],
       github: "https://github.com/mk4727/Dynamic",
       webapp: "https://dynamic-4.onrender.com/",
     },
