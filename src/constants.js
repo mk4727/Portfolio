@@ -220,7 +220,7 @@ export const SkillsInfo = [
         "A real-time chat feature built with the MERN stack and Socket.io, allowing users to communicate instantly while using the platform. It supports one-on-one or group chats, along with document file sharing (PDFs, notes, etc.), enabling users to exchange study materials and get help in a collaborative learning environment.",
       image: githubdetLogo,
       tags: ["HTML", "CSS", "JavaScript", "React JS", "API", "Node JS", "Express Js", "MongoDb", "TailwindCss", "Postman"],
-      github: "https://github.com/mk4727/Chatty",
+      github: "https://github.com/mk4727/New",
       webapp: "https://new-12l1.onrender.com/",
     },
     {
