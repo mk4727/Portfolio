@@ -156,7 +156,7 @@ export const SkillsInfo = [
       img: agcLogo,
       role: "Web Development",
       company: "Zidio Development",
-      date: "July 204 - September 2024",
+      date: "July 2024 - September 2024",
       desc: "Contributed to innovative projects as a Fullstack Engineer, leading both frontend and backend development using technologies such as HTML, CSS, JavaScript, Bootstrap, NodeJS, ExpressJS, MOngoDB and ReactJS. Worked closely with the team to deliver responsive, high-performance web applications and improve user experience through seamless integration of various technologies.",
       skills: [
         "ReactJS",
